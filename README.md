@@ -1,1 +1,1 @@
-# C_Studies
+Some studies in C++
